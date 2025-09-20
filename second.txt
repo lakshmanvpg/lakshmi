@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is second file from the local
+=======
+this is second file from the remote
+>>>>>>> 28f2846221eb4aefbc31d2f276c393d9ee2f82ff
